@@ -46,7 +46,7 @@ Music Player/
 ## 📸 Screenshot
 
 ### Music Player
-<img src="https://github.com/user-attachments/assets/a7a54c25-c9f0-4f84-8473-608155fbc138" alt="Music Player" width="700" height="450"/>
+<img src="https://github.com/user-attachments/assets/a7a54c25-c9f0-4f84-8473-608155fbc138" alt="Music Player" width="800" height="450"/>
 
 ---
 
