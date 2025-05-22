@@ -51,7 +51,7 @@ Music Player/
 ---
 
 ### Netlify Badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5f5425c8-a6e7-4ca6-8512-3be05d940372/deploy-status)](https://app.netlify.com/projects/ai-fields-theme-toggle/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e36aaec9-7b9f-45ad-99b8-268f4be746ec/deploy-status)](https://app.netlify.com/projects/random-background-music-player/deploys)
 
 ---
 
