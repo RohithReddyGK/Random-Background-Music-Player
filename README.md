@@ -1,5 +1,10 @@
 # 🎵 Random Background Music Player
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![HTML](https://img.shields.io/badge/tech-HTML-orange)
+![CSS](https://img.shields.io/badge/tech-CSS-blue)
+![JavaScript](https://img.shields.io/badge/tech-JavaScript-yellow)
+
 A clean and interactive web-based **music player** that allows users to play a **random background song** or choose one from a **dropdown playlist**. Built using **HTML, CSS, and JavaScript**, this player also features a visually appealing background with a soft overlay for a cinematic experience.
 
 ---
