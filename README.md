@@ -1,4 +1,4 @@
-![Music Player](https://github.com/user-attachments/assets/231f93f8-3d4b-4d6f-94d9-800901fa4805)# 🎵 Random Background Music Player
+# 🎵 Random Background Music Player
 
 A clean and interactive web-based **music player** that allows users to play a **random background song** or choose one from a **dropdown playlist**. Built using **HTML, CSS, and JavaScript**, this player also features a visually appealing background with a soft overlay for a cinematic experience.
 
