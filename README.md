@@ -29,12 +29,14 @@ A clean and interactive web-based **music player** that allows users to play a *
 
 ## 📂 Folder Structure
 
+```
 Music Player/
 ├── index.html
 ├── Images/
 │ └── Music.webp
 └── Music_Player/
 ├── Your favourite songs(.mp3)
+```
 
 ---
 
